@@ -1,3 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit - simple portfolio"
+git remote add origin https://github.com/Vincent Abolaji Dada/portfolio-site.git
+git branch -M main
+git push -u origin main
 body {
   font-family: Arial, sans-serif;
   margin: 0;
