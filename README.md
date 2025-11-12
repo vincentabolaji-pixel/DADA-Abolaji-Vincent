@@ -1,1 +1,1 @@
-## open index.html
+## open "index.html" in the browser.
